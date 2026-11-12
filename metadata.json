@@ -1,0 +1,8 @@
+{
+  "name": "Ridgemark Roofing Of Vancouver",
+  "description": "Premium, high-converting roofing contractor website for Ridgemark Roofing of Vancouver, British Columbia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
